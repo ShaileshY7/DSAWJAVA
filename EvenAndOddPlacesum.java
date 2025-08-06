@@ -1,4 +1,4 @@
-public class EvenAndOddPlacesum {
+public class EvenAndOddPlaceSum {
     public static void main(String[] args) {
         int n=736876;
         int sum1=0;
